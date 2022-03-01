@@ -34,3 +34,4 @@ class WelcomeFragment : Fragment() {
     }
 
 }
+//Feat[User controller]: Add welcome page with signin and signup button
