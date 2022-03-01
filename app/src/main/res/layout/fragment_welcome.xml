@@ -44,6 +44,7 @@
         android:layout_marginEnd="@dimen/marginStart"/>
 
     <com.google.android.material.button.MaterialButton
+        android:id="@+id/login"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/log_in"
@@ -55,6 +56,7 @@
         android:layout_marginTop="50dp"/>
 
     <com.google.android.material.button.MaterialButton
+        android:id="@+id/sign_up"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/sign_up"
