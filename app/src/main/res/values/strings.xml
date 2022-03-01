@@ -7,4 +7,7 @@
     <string name="water_note">We deliver water at any point of the Earth in 30 minutes</string>
     <string name="log_in">Log in</string>
     <string name="sign_up">Sign up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password?</string>
 </resources>
